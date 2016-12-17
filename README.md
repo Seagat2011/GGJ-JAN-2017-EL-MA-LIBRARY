@@ -3,6 +3,6 @@ Global Game Jam January 2017 at East Longmeadow Library, MA - US Northeast
 
 2017 Project proposals (User-Submitted)
 
-#### Pootie-Tang's Hacienda  
-#### Songstudio 101   
-#### Battle for Whodinia  
+<b>Pootie-Tang's Hacienda</b>  
+<b>Songstudio 101</b>   
+<b>Battle for Whodinia</b>  
